@@ -1,4 +1,4 @@
-# BREEZE-DRA (best viewed in editing formmat)
+# BREEZE-DRA (best viewed in editing format)
 
 ---
 
