@@ -1,8 +1,8 @@
 # BREEZE-DRA
 
-code to organize data: "LAPSE-RATE.ipynb", "WFIP2.ipynb" //
+Code to organize data: "LAPSE-RATE.ipynb", "WFIP2.ipynb" //
 code to replicate plots: "Plots_for_sanity_check.ipynb" //
-data stored in the link below.
+data stored in the link at the bottotm:
 
 ---
 
